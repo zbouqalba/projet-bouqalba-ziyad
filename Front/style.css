@@ -80,9 +80,6 @@ body::before {
 }
 
 .intro-panel h1 { max-width: 300px; font-size: clamp(2.3rem, 4vw, 3.6rem); }
-.intro-text { max-width: 280px; margin: 22px 0 0; color: #cad8d0; line-height: 1.7; }
-.intro-detail { display: flex; align-items: center; gap: 12px; margin-top: 46px; color: #b8c8c0; font-size: 0.78rem; }
-.detail-line { width: 34px; height: 1px; background: var(--accent); }
 
 .form-panel { padding: 48px clamp(24px, 5vw, 62px); }
 fieldset { margin: 0 0 32px; padding: 0; border: 0; }
@@ -122,8 +119,6 @@ dd { margin: 5px 0 0; overflow-wrap: anywhere; }
   .page-shell { padding: 32px 14px; }
   .signup-card { display: block; }
   .intro-panel { min-height: auto; padding: 34px 28px; }
-  .intro-text { margin-top: 16px; }
-  .intro-detail { margin-top: 25px; }
   .form-panel { padding: 34px 24px; }
 }
 
